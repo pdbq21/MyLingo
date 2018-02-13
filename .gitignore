@@ -10,8 +10,8 @@
 /build
 
 # dev
-/subs
-subtitles.json
+#/subs
+#subtitles.json
 
 # misc
 .DS_Store
